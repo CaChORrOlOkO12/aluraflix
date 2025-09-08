@@ -1,2 +1,2 @@
 # yassflix
-pagin web deenvolvida nas aula de pensamento computacional 
+pagina web desenvolvida nas aulas de pensamento computacional 
